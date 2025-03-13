@@ -34,7 +34,6 @@ used for this documentation.
 
 [Google Colab](https://research.google.com/colaboratory/) is a free-to-use hosted Jupyter notebook service that provides
 computing resources including GPUs and itkwidgets is now supported in Colab
-notebooks! You can get started with a demo notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InsightSoftwareConsortium/itkwidgets/blob/main/examples/Hello3DWorld.ipynb)
 
 Or visit the [welcome page](https://colab.research.google.com/?utm_source=scs-index) to upload your own notebook or create one from scratch.
 
